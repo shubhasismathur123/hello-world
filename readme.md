@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (1005 total)
+## Languages (1007 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -634,6 +634,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [MXML](m/MXML.mxml)
 * [Myrddin](m/Myrddin.myr)
 * [MySQL](m/MySQL.sql)
+* [deployment](manifests/deployment.yaml)
+* [service](manifests/service.yaml)
 * [Neko](n/Neko.neko)
 * [Nelua](n/Nelua.nelua)
 * [Nemerle](n/Nemerle.n)
